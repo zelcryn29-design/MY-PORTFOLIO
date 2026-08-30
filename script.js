@@ -183,7 +183,7 @@ document.addEventListener('DOMContentLoaded', () => {
         ems: {
             title: "Employee Management System",
             category: "UI/UX + Web Development",
-            image: "project1-placeholder.jpg",
+            image: "project1-placeholder.jpg.jpg",
             tech: ["HTML", "CSS", "PHP", "MySQL"],
             desc: "A comprehensive web-based employee management system featuring employee records, attendance tracking, automatic time logging, and payroll functionality.",
             problem: "The client needed a digital solution to replace their manual, paper-based timekeeping and payroll calculation which was prone to errors and took hours to process.",
@@ -193,7 +193,7 @@ document.addEventListener('DOMContentLoaded', () => {
         qrcode: {
             title: "QR Code Digital Menu",
             category: "Web Development + UI/UX",
-            image: "project2-cover.png",
+            image: "project2-placeholder.jpg.jpg",
             tech: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
             desc: "A digital café menu accessible through a QR code, featuring categorized menu items, pricing, and high-quality images.",
             problem: "A local cafe wanted to modernize their ordering process and reduce printing costs for physical menus that frequently changed.",
